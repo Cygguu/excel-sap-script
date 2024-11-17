@@ -1,5 +1,5 @@
 /**
- * Created by: Jakub Zyzański
+ * Created by: Jakub Zyzanski
  * Version: 2.1
  *
  * This script updates specific cells in an Excel sheet based on 
